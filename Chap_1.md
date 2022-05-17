@@ -2,6 +2,7 @@
 
 ## 1. What is SQL?
 DBMS (Database Management System)
+
 two types: **Relational** & NoSQL
 
 ![Screenshot 2022-05-17 at 18 45 43](https://user-images.githubusercontent.com/45595641/168865394-0fe2097b-aa73-46a8-bfd0-7f19c6a26fa7.png)
@@ -11,9 +12,13 @@ two types: **Relational** & NoSQL
 - MySQL Workbench
 
 How to ste up new connection
+
 hostname: 127.0.0.1  ---> local machine
+
 Port: 3306 
+
 Username
+
 Password: also the password of MySQL server
 
 ## 3. Creating the Databases
